@@ -124,7 +124,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center space-x-3">
                 <FaEnvelope className="text-primary" size={14} />
-                <span className="text-gray-400 text-sm">info@primeestates.com</span>
+                <span className="text-gray-400 text-sm">info@CrystalBlackRealtors.com</span>
               </div>
               <div className="flex items-center space-x-3">
                 <FaMapMarkerAlt className="text-primary" size={14} />
@@ -138,7 +138,7 @@ const Footer = () => {
         <div className="pt-8 border-t border-gray-800">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-500 text-sm">
-              © {currentYear} PrimeEstates. All rights reserved.
+              © {currentYear} Crystal Black Realtors. All rights reserved.
             </p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <Link to="/privacy" className="text-gray-500 hover:text-primary text-sm transition-colors">

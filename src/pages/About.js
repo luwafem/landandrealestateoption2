@@ -61,7 +61,7 @@ const About = () => {
             <h1 className="text-5xl md:text-7xl font-bold mb-6">
               <span className="block">About</span>
               <span className="text-primary">
-                PrimeEstates
+                CrystalBlackRealtors
               </span>
             </h1>
             <p className="text-gray-400 text-xl max-w-3xl mx-auto">
@@ -86,7 +86,7 @@ const About = () => {
             
             <div className="space-y-6">
               <p className="text-gray-400 text-lg leading-relaxed">
-                Founded with a vision to transform urban living, PrimeEstates began as a small 
+                Founded with a vision to transform urban living, Crystal Black Realtors began as a small 
                 boutique agency with big dreams. What started as a passion project has grown into 
                 one of the most respected names in property development and management.
               </p>
@@ -108,7 +108,7 @@ const About = () => {
                 <div className="text-sm text-gray-400">Projects Completed</div>
               </div>
               <div>
-                <div className="text-3xl font-bold text-primary mb-2">$2B+</div>
+                <div className="text-3xl font-bold text-primary mb-2">₦2B+</div>
                 <div className="text-sm text-gray-400">Property Value</div>
               </div>
               <div>

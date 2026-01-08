@@ -165,7 +165,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className="text-lg font-bold text-light">Email Address</h4>
-                    <p className="text-gray-400">info@primeestates.com</p>
+                    <p className="text-gray-400">info@CrystalBlackRealtors.com</p>
                     <p className="text-gray-500 text-sm">Response within 24 hours</p>
                   </div>
                 </div>
@@ -211,7 +211,7 @@ const Contact = () => {
             <h3 className="text-2xl font-bold text-light mb-6">Visit Our Office</h3>
             <div className="h-96 bg-gray-800 rounded-2xl flex items-center justify-center border border-gray-700">
               <div className="text-center">
-                <div className="text-6xl mb-6">📍</div>
+                <div className="text-6xl mb-6"></div>
                 <p className="text-gray-400">Interactive map would appear here</p>
                 <p className="text-gray-500 text-sm mt-2">123 Business Ave, New York, NY 10001</p>
               </div>
